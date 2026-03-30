@@ -1,172 +1,105 @@
-# 🌐 Digital Portfolio of Evidence (POE)
-## 👩🏽‍💻 Magdeline Malahlela
+# 👩🏽‍💻 Magdeline Malahlela
 
-### 🎓 Qualification
-Diploma in Information Technology – Cape Peninsula University of Technology (CPUT)
+**Aspiring Software Engineer | Final-Year ICT Applications Development Student**
 
-### 💼 Career Goal
-Aspiring Software Tester and Future Data Engineer
-
----
-
-## 📖 Introduction
-This digital portfolio presents a collection of my academic and practical work completed during my IT studies. It demonstrates my growth in programming, system development, and problem-solving.
+📍 Cape Town  
+📞 060 461 9111  
+📧 malahlelamagdeline@gmail.com  
+🔗 LinkedIn: 
 
 ---
 
-## 🎯 Purpose of the Portfolio
-The purpose of this portfolio is to showcase evidence of my learning and development. It highlights my ability to apply theoretical knowledge to practical projects.
+## 🎯 Career Objective
+
+A highly motivated and driven final-year ICT Applications Development student at Cape Peninsula University of Technology, seeking a Work Integrated Learning (WIL) opportunity in Software Engineering.
+
+I am passionate about building efficient, user-focused systems and continuously improving my technical skills. I have hands-on experience in both frontend and backend development, with a strong foundation in Java, databases, and modern web technologies.  
+
+I am eager to contribute to a dynamic team, gain industry experience, and further develop my problem-solving and software development skills in a professional environment.
+
+---
+
+## 🎓 Education
+
+**Cape Peninsula University of Technology (CPUT)**  
+Diploma in ICT: Applications Development  
+*Final Year Student (Current)*  
+
+---
+
+## 💻 Projects
+
+### 🟣 Portfolio Website
+A personal portfolio website designed and developed to showcase my skills, projects, and professional profile.
+
+**Technologies Used:**
+- JavaScript  
+- React  
+- CSS  
+
+**Key Highlights:**
+- Responsive and user-friendly interface  
+- Showcases projects and skills  
+- Focus on clean design and usability  
+
+---
+
+### 🟣 Smart Menu Application
+A student ordering system designed to reduce queues and improve efficiency in campus food services.
+
+**Technologies Used:**
+- Java (Swing for GUI)  
+- SQL (Database integration)  
+
+**Key Features:**
+- Student login and registration  
+- View menu and pricing  
+- Add items to cart  
+- Checkout system  
+- Order tracking  
+
+**My Role:**
+Backend Developer & Secretary (documentation, coordination, and version control)
+
+---
+
+### 🟣 Student Internship Management System
+A system designed to manage internship applications for students and administrators.
+
+**Technologies Used:**
+- Java  
+- MySQL  
+
+**Key Features:**
+- Admin entity and repository implementation  
+- CRUD operations  
+- Use of design patterns (Singleton)  
+- Backend-focused architecture  
 
 ---
 
 ## 🛠️ Technical Skills
-- Java (OOP, GUI – Swing)
-- Python
-- SQL (Database Design & Queries)
-- HTML, CSS, JavaScript
-- Git & Version Control
-- Problem Solving & Debugging
+
+| Category      | Skills |
+|--------------|--------|
+| **Frontend** | React, UX/UI Design |
+| **Backend**  | Java, Python, Node.js |
+| **Database** | MySQL |
+| **Tools**    | Git & GitHub, Figma, Microsoft Azure, VS Code |
+| **Other**    | Problem Solving, Agile Methodologies |
 
 ---
 
-# 💻 MY PROJECTS
+## 🎥 Mock Interview
 
-This section presents the key projects I have worked on throughout my academic journey. These projects demonstrate my technical skills, problem-solving abilities, and experience working both individually and in a team.
+Watch my mock interview video below, demonstrating my communication skills, technical knowledge, and readiness for the workplace:
 
----
-
-## 🟣 Smart Menu App
-
-**Description:**  
-A student ordering system designed to reduce waiting time and improve efficiency in campus food services.
-
-**Technologies:**  
-Java, Swing, SQL  
-
-**My Role:**  
-Secretary & Backend Developer  
-
-**Key Features:**
-- Student login and registration  
-- View menu and prices  
-- Add items to cart  
-- Checkout functionality  
-- Order history  
+👉 
 
 ---
 
-## 🟣 Student Internship Management System
+## ✨ About Me
 
-**Description:**  
-A system that allows students to apply for internships while administrators manage applications.
+I am a passionate and goal-driven IT student with a strong interest in software engineering, data, and cloud technologies. I enjoy solving problems, building systems, and continuously learning new technologies.
 
-**Technologies:**  
-Java, MySQL  
-
-**My Role:**  
-Backend Developer  
-
-**Key Features:**
-- Admin entity creation  
-- Repository structure  
-- CRUD operations  
-- Use of design patterns  
-
----
-
-## 🟣 Portfolio Website
-
-**Description:**  
-A personal website showcasing my skills and projects.
-
-**Technologies:**  
-HTML, CSS, JavaScript  
-
-**My Role:**  
-Full Developer  
-
----
-
-# 🎯 SELECT
-
-This section includes selected artefacts that best demonstrate my skills and development.
-
----
-
-## 🟣 Smart Menu App
-
-**Reason for Selection:**  
-This project demonstrates my ability to build a functional application using Java and implement backend logic.
-
----
-
-## 🟣 Student Internship Management System
-
-**Reason for Selection:**  
-This project highlights my understanding of backend development and system design.
-
----
-
-## 🟣 Portfolio Website
-
-**Reason for Selection:**  
-This project demonstrates my ability to design and develop a user-friendly interface.
-
----
-
-# 🧠 REFLECT
-
-This section reflects on my learning experiences and development.
-
----
-
-## 🟣 Smart Menu App
-
-Through this project, I gained knowledge in Java GUI development and event handling. I learned how to manage user input and create a structured system.
-
-One challenge I faced was ensuring that the application handled user data correctly. I improved this by testing different scenarios and debugging errors.
-
-In the future, I would improve the system by enhancing the user interface and integrating a real database.
-
----
-
-## 🟣 Student Internship Management System
-
-This project improved my understanding of backend development and design patterns. I learned how to structure a repository and manage data using CRUD operations.
-
-A challenge I faced was implementing the repository correctly. Through practice, I improved my coding and debugging skills.
-
-In future, I would connect the system to a frontend interface.
-
----
-
-## 🟣 Portfolio Website
-
-This project helped me improve my front-end development skills. I learned how to structure and style web pages.
-
-One challenge was creating a visually appealing layout. I solved this by experimenting with different designs.
-
-In future, I would add more interactive features and improve responsiveness.
-
----
-
-# 🔗 CONNECT
-
-This section explains how my learning experiences connect and prepare me for the IT industry.
-
-Across all projects, I developed strong programming and problem-solving skills. I gained experience in both frontend and backend development.
-
-Working on group projects improved my teamwork and communication skills. I also learned how to manage time and meet deadlines.
-
-These experiences have prepared me for a career in software development and testing, where I can contribute to building efficient and reliable systems.
-
----
-
-# 🎥 MOCK INTERVIEW VIDEO
-
-This section presents my mock interview, which demonstrates my communication skills, technical understanding, and readiness for the workplace.
-
-(Add your video file in the repository or mention where it can be accessed)
-
----
-
+I am currently seeking an opportunity where I can apply my knowledge, grow professionally, and contribute meaningfully to real-world projects.
