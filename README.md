@@ -5,7 +5,9 @@
 📍 Cape Town  
 📞 060 461 9111  
 📧 malahlelamagdeline@gmail.com  
-🔗 LinkedIn: 
+🔗 LinkedIn: www.linkedin.com/in/
+magdeline-malahlela-032781245
+
 
 ---
 
@@ -94,7 +96,7 @@ A system designed to manage internship applications for students and administrat
 
 Watch my mock interview video below, demonstrating my communication skills, technical knowledge, and readiness for the workplace:
 
-👉 
+👉 https://drive.google.com/file/d/1266u2mltiGit0Nk_kwknaJLJcL5HcfoW/view?usp=sharing
 
 ---
 
