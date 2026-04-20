@@ -5,8 +5,10 @@
 📍 Cape Town  
 📞 060 461 9111  
 📧 malahlelamagdeline@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/
-magdeline-malahlela-032781245
+
+🔗 [LinkedIn](https://www.linkedin.com/in/magdeline-malahlela-032781245)  
+💻 [GitHub](https://github.com/yourusername)  
+🌐 [Portfolio Website](https://yourusername.github.io)  
 
 
 ---
@@ -96,10 +98,58 @@ A system designed to manage internship applications for students and administrat
 
 Watch my mock interview video below, demonstrating my communication skills, technical knowledge, and readiness for the workplace:
 
-👉 https://drive.google.com/file/d/1266u2mltiGit0Nk_kwknaJLJcL5HcfoW/view?usp=sharing
+▶️ [Watch Mock Interview](https://drive.google.com/file/d/1266u2mltiGit0Nk_kwknaJLJcL5HcfoW/view?usp=sharing)
 
 ---
 
+
+## 📝 Reflection: Coding in Markdown
+
+**Situation:**  
+I was required to create a digital portfolio using Markdown and GitHub for my Project presentation 3 module at Cape peninsula University Of Technology.
+
+**Task:**  
+My goal was to design a professional and well-structured portfolio that clearly presents my skills, projects, and work readiness.
+
+**Action:**  
+I learned and applied GitHub Flavoured Markdown to structure my content using headings, lists, links, and formatting. I focused on making the portfolio clean, readable, and visually appealing while maintaining professionalism.
+
+**Result:**  
+I successfully created a well-organized portfolio that showcases my technical skills and projects. This experience improved my documentation skills and taught me how developers present their work in real-world environments.
+
+---
+
+## 🎤 Reflection: Mock Interview Experience 
+
+**Situation:**  
+As part of my work readiness training, I participated in a mock interview.
+
+**Task:**  
+I needed to present myself professionally, answer technical and behavioral questions, and demonstrate confidence.
+
+**Action:**  
+I prepared by reviewing common interview questions, practicing my responses, and improving my communication skills. During the interview, I focused on being clear, confident, and structured in my answers.
+
+**Result:**  
+The experience helped me identify areas for improvement, especially in confidence and articulation. It also boosted my readiness for real-world interviews and improved my ability to present myself professionally.
+
+---
+
+## 🌐 Reflection: GitHub Pages 
+
+**Situation:**  
+I was required to publish my digital portfolio using GitHub Pages.
+
+**Task:**  
+My objective was to deploy my Markdown portfolio as a live website accessible online.
+
+**Action:**  
+I created a GitHub repository, uploaded my Markdown files, and configured GitHub Pages to host my portfolio. I ensured that all links and content were working correctly.
+
+**Result:**  
+I successfully published my portfolio online. This experience helped me understand version control, deployment, and how developers showcase their work professionally.
+
+---
 ## ✨ About Me
 
 I am a passionate and goal-driven IT student with a strong interest in software engineering, data, and cloud technologies. I enjoy solving problems, building systems, and continuously learning new technologies.
