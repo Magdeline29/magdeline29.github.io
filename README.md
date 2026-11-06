@@ -8,7 +8,6 @@
 
 🔗 [LinkedIn](https://www.linkedin.com/in/magdeline-malahlela-032781245)  
 💻 [GitHub](https://github.com/yourusername)  
-🌐 [Portfolio Website](https://yourusername.github.io)  
 
 
 ---
